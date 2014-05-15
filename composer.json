@@ -1,0 +1,6 @@
+{
+    "name": "markroland/image-manipulation",
+    "description": "Image manipulation, including trimming whitespace, resizing, and white-to-transparency conversion",
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
